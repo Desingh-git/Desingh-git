@@ -1,13 +1,10 @@
 ## Hi there 👋 It's me Desingh
+<p align="left">
+Computer Science professional specializing in Data Science, with expertise in web development, software development, and machine learning. Passionate about building scalable applications and solving real-world problems through technology. </p>
 
 Aspiring Software Developer | Web Developer | Machine Learning Enthusiast
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-
-- Social Presence
-<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariya-desingh-v-486778353/)
-<br/> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:desinghmariya@gmail.com)
- <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mddesingh/)
 
 
 ### I code in
@@ -17,3 +14,8 @@ Aspiring Software Developer | Web Developer | Machine Learning Enthusiast
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
 
+
+### Social Presence
+<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariya-desingh-v-486778353/)
+<br/> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:desinghmariya@gmail.com)
+ <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mddesingh/)
