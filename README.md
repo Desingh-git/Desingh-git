@@ -1,6 +1,6 @@
 ![Desingh-git Banner Image](./banner.png)
 <p align="left">
-I am a Software Developer and Data Science Enthusiast with a strong interest in Python, Java, Flask, PHP, SQL, Web Development, Machine Learning, and Data Visualization.</p>
+An AI/ML enthusiast resume objective should highlight your passion for intelligent systems and connect your academic or personal projects to tangible business value and Software Developer with a strong interest in Python, Java, Flask, PHP, SQL, Web Development, Machine Learning, and Data Visualization.</p>
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - ✨ Passionate about continuous learning and self-improvement
